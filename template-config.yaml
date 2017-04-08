@@ -1,0 +1,6 @@
+private_key_file: /home/me/MyEC2KeyPair.pem
+user: ec2-user
+log_file_location: /var/log/springboot.log
+use_public_ip_for_ssh: true
+output_application: gedit
+output_location: /tmp
